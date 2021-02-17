@@ -1,5 +1,5 @@
-# This is a programme that calculates somebody's Body Mass Index (BMI)
-# author: Ruth McQuillan
+#this is a programme that calculates somebody's Body Mass Index (BMI)
+#Author: Ruth McQuillan
 
 strweight = input ('Enter your weight in kilograms: ')           # this line asks for the persons weight in kgs
 strheight = input ('Enter your height in centimetres: ')         # ditto for height in cms
